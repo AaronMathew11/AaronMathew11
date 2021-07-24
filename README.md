@@ -17,8 +17,8 @@
 
 <h3 align="center">Social handles :</h3>
 <p align="center">
-<a href="https://fb.com/https://www.facebook.com/aaron.mathew.982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aaron.mathew.982" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/aaron_mathew_11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aaron_mathew_11/" height="30" width="40" /></a>
+<a href="https://fb.com/aaron mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaron mathew" height="30" width="40" /></a>
+<a href="https://instagram.com/aaron_mathew_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaron_mathew_11" height="30" width="40" /></a>
 </p>
 <p></p>
 
