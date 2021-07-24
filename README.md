@@ -2,7 +2,7 @@
 <h4 align="center">-Just getting started-</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronmathew11&label=Profile%20views&color=0e75b6&style=flat" alt="aaronmathew11" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif" >
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif" >
 
 <p align="center">
  🌱 currently learning Android Dev using Kotlin</p>
