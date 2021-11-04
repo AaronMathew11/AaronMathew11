@@ -25,9 +25,9 @@
 
 <h3 align="center">Social handles :</h3>
 <p align="center">
-<a href="https://linkedin.com/in/aaron-mathew-8a66761b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-mathew-8a66761b4" height="25" width="25" /></a> &nbsp |  &nbsp
- <a href="https://instagram.com/aaron_mathew_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaron_mathew_11" height="25" width="25" /></a>&nbsp  |  &nbsp
-<a href="https://fb.com/aaron mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaron mathew" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/aaron-mathew-8a66761b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-mathew-8a66761b4" height="20" width="20" /></a> &nbsp |  &nbsp
+ <a href="https://instagram.com/aaron_mathew_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaron_mathew_11" height="20" width="20" /></a>&nbsp  |  &nbsp
+<a href="https://fb.com/aaron mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaron mathew" height="20" width="20" /></a>
  <p align ="center">
   
 
