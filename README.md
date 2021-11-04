@@ -7,11 +7,17 @@
  > Currently learning Android Dev using Kotlin
  
  > Reach me at aaronstone11.2001@gmail.com</p>
+ 
  <br/>
+ 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronmathew11&show_icons=true&locale=en&layout=compact&theme=react" alt="aaronmathew11" />
+
 &nbsp;
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaronMathew11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaronMathew11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h2> </h2>
+
 <p align="center">
 <a href="https://linkedin.com/in/aaron-mathew-8a66761b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-mathew-8a66761b4" height="20" width="20" /></a> &nbsp |  &nbsp
  <a href="https://instagram.com/aaron_mathew_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaron_mathew_11" height="20" width="20" /></a>&nbsp  |  &nbsp
