@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronmathew11&label=Profile%20views&color=0e75b6&style=flat" alt="aaronmathew11" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/511174/screenshots/6689731/loop_2.gif" >
-<h1> asdf </h1>
+<h1></h1>
 
 <p align="left">
  
@@ -12,19 +12,11 @@
  
  <br/>
  
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronmathew11&show_icons=true&locale=en&layout=compact&theme=react" alt="aaronmathew11" />
-
- 
-
-
- &nbsp;
- <p>
-
- 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronmathew11&show_icons=true&locale=en&layout=compact&theme=react" alt="aaronmathew11" /></p>
+ &nbsp; 
  ![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronMathew11&count_private=true&theme=react)
   &nbsp; 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AaronMathew11&theme=react" alt="Aarons's GitHub Streak"/>
-
 
  &nbsp;
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaronMathew11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
