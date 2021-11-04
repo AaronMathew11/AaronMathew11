@@ -1,25 +1,47 @@
-<h2 align="center">Hey there 👋, Aaron Mathew here</h2>
-<h4 align="center">-Just getting started-</h4>
+<img align="center" src="https://raw.githubusercontent.com/AaronMathew11/AaronMathew11/main/final.png"/>
+
+<h4 align="center" font>-Just getting started-</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronmathew11&label=Profile%20views&color=0e75b6&style=flat" alt="aaronmathew11" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif" >
+<img align="right" alt="Coding" width="432" src="https://cdn.dribbble.com/users/511174/screenshots/6689731/loop_2.gif" >
 
-<p align="center">
- 🌱 currently learning Android Dev using Kotlin</p>
-<p align="center">
- 📫 Reach me at aaronstone11.2001@gmail.com</p>
+<p align="left">
+ 
+ > Currently learning Android Dev using Kotlin
+ 
+ > Reach me at aaronstone11.2001@gmail.com</p>
+ 
+ <br/>
+ 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronMathew11&theme=react" alt="Aarons's GitHub Streak"/>
+
+ &nbsp;
+<h2> My Github Stats : </h2>
+
+ 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronmathew11&show_icons=true&locale=en&layout=compact&theme=react" alt="aaronmathew11" />
+
+ ![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronMathew11&count_private=true&theme=react)
 
 
-<h3 align="center">Tools im learning : </h3>
 
-<p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a>  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> </p>
+ 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaronMathew11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+
+
+
+<h2> </h2>
 
 
 <h3 align="center">Social handles :</h3>
 <p align="center">
-<a href="https://linkedin.com/in/aaron-mathew-8a66761b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-mathew-8a66761b4" height="30" width="40" /></a>
- <a href="https://instagram.com/aaron_mathew_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaron_mathew_11" height="30" width="40" /></a>
-<a href="https://fb.com/aaron mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaron mathew" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aaron-mathew-8a66761b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-mathew-8a66761b4" height="25" width="25" /></a> &nbsp |  &nbsp
+ <a href="https://instagram.com/aaron_mathew_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaron_mathew_11" height="25" width="25" /></a>&nbsp  |  &nbsp
+<a href="https://fb.com/aaron mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaron mathew" height="25" width="25" /></a>
+ <p align ="center">
+  
+
 
 </p>
 <p></p>
