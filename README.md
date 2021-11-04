@@ -18,14 +18,14 @@
 
  &nbsp;
  <p>
-<h2> &nbsp;&nbsp;&nbsp; </h2>
-
+<h2>  </h2>
+&nbsp;&nbsp;
  
  ![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronMathew11&count_private=true&theme=react)
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronMathew11&theme=react" alt="Aarons's GitHub Streak"/>
 
 
- 
+ &nbsp;
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaronMathew11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
