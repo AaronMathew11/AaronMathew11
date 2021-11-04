@@ -18,7 +18,7 @@
 
  &nbsp;
  <p>
-<h2> My Github Stats : </h2>
+<h2> &nbsp; </h2>
 
  
  ![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronMathew11&count_private=true&theme=react)
