@@ -1,7 +1,5 @@
 <img align="center" src="https://raw.githubusercontent.com/AaronMathew11/AaronMathew11/main/final.png"/>
 
-<h4 align="center" font>-Just getting started-</h4>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronmathew11&label=Profile%20views&color=0e75b6&style=flat" alt="aaronmathew11" /> </p>
 <img align="right" alt="Coding" width="432" src="https://cdn.dribbble.com/users/511174/screenshots/6689731/loop_2.gif" >
 
