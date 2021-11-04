@@ -12,15 +12,15 @@
  
  <br/>
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronmathew11&show_icons=true&locale=en&layout=compact&theme=react" alt="aaronmathew11" /></p>
- &nbsp; 
- ![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronMathew11&count_private=true&theme=react)
-  &nbsp; 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AaronMathew11&theme=react" alt="Aarons's GitHub Streak"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronmathew11&show_icons=true&locale=en&layout=compact&theme=react" alt="aaronmathew11" />
+&nbsp;
+<h2> My Github Stats : </h2>
 
- &nbsp;
+![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronMathew11&count_private=true&theme=react)
+
+
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaronMathew11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+
 
 <h2> </h2>
 
