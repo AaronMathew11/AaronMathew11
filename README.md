@@ -8,7 +8,7 @@
  
  > Reach me at aaronstone11.2001@gmail.com</p>
  
- <br/>
+
  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronmathew11&show_icons=true&locale=en&layout=compact&theme=react" alt="aaronmathew11" />
 
