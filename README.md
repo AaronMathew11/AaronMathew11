@@ -14,7 +14,7 @@
  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronmathew11&show_icons=true&locale=en&layout=compact&theme=react" alt="aaronmathew11" />
 &nbsp;
-<h2> My Github Stats : </h2>
+<h2>   </h2>
 
 ![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronMathew11&count_private=true&theme=react)
 
