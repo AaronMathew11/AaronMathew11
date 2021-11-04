@@ -22,6 +22,7 @@
 &nbsp;&nbsp;
  
  ![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronMathew11&count_private=true&theme=react)
+  &nbsp; &nbsp;
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronMathew11&theme=react" alt="Aarons's GitHub Streak"/>
 
 
