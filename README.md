@@ -4,7 +4,7 @@
 <h1>Hola Guyz!</h1>
 <p align="left">
  
- > Trying to learn as much as i can while im still a student : )
+ > All about Learning, Failing and trying again : )
  
  > Reach me at aaronstone11.2001@gmail.com</p>
  
